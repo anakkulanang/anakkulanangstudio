@@ -1,0 +1,258 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "CAMPURSARI",
+    "image": "file:///android_asset/image/CD.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO",
+      "image": "file:///android_asset/image/CK.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "CAMPURSARI",
+    "title": "NGIDAM PENTOL",
+    "image": "file:///android_asset/image/CD.jpg",
+    "link_mp3": "mp3/9CMNGIDAMPENTOLLA.mp3",
+    "duration": "293",
+    "lyrics": "Bojoku meteng telung wulan<br>Bendino ngiler jarene ngidam<br>Sak jalukke kudu keturutan<br>Iki nyidam opo kesempatan<br><br>Iki ngono perbuatanmu mas<br>Wetengku cilik mbok gawe lemu<br>Kowe seneng gugahi wong turu<br>Ra di wei mengko kowe nesu<br><br>Yo wes cah ayu<br>Bojoku sing ayu dewe dewe dewe<br>Gek ndang omongo opo sing mbok kepingini<br>Gek ndang tak turuti<br><br>Sing tak pengini sing gampang gampang<br>Janji kudu keturutan<br><br>Aku pengin pentol sing ono endok’e<br>Aku pengen pentol sing double endok’e<br>Aku pengin pentol pentol pentol pentol endok<br>Sing okeh emi ne<br><br>Kowe pengin pentol sing ene endok’e<br>Kowe pengen pentol sing double endok’e<br>Kowe pengen pentol pentol pentol endok<br>Sing akeh emi ne<br><br>Yo wes cah ayu<br>Bojoku sing ayu dewe dewe dewe<br>Gek ndang omongo opo sing mbok kepingini<br>Gek ndang tak turuti<br><br>Sing tak pengini sing gampang gampang<br>Janji kudu keturutan<br><br>Aku pengin pentol sing ono endok’e<br>Aku pengen pentol sing double endok’e<br>Aku pengin pentol pentol pentol pentol endok<br>Sing okeh emi ne<br><br>Kowe pengin pentol sing ene endok’e<br>Kowe pengen pentol sing double endok’e<br>Kowe pengen pentol pentol pentol endok<br>Sing akeh emi ne<br><br>Yo wes cah ayu<br>Bojoku sing ayu dewe dewe dewe<br>Gek ndang omongo opo sing mbok kepingini<br>Gek ndang tak turuti<br><br>Sing tak pengini sing gampang gampang<br>Janji kudu keturutan<br><br>Aku pengin pentol sing ono endok’e<br>Aku pengen pentol sing double endok’e<br>Aku pengin pentol pentol pentol pentol endok<br>Sing okeh emi ne<br><br>Kowe pengin pentol sing ene endok’e<br>Kowe pengen pentol sing double endok’e<br>Kowe pengen pentol pentol pentol endok<br>Sing akeh emi ne<br><br>Kowe pengin pentol sing ene endok’e<br>Kowe pengen pentol sing double endok’e<br>Kowe pengen pentol pentol pentol endok<br>Sing akeh emi ne<br>"
+  },
+    {
+      "id": 2,
+      "name_category": "CAMPURSARI",
+      "title": "NGIDAM JAMBLEM",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/8CMNGIDAMJMBLEMLA.mp3",
+      "duration": "453",
+      "lyrics": "Dik, aku penasaran<br>Opo yo tenan kowe dodolan jajan<br>Nyawang kowe sing bakul jajan<br>Mesti wae jajanmu yo wenak tenan<br><br>Mas<br>Kuwi pancen bener mas<br>Tapi mung kari siji jenenge jemblem<br>Jemblemku jembleme super<br>Tak eman-eman masio wong podho ngiler<br>Jemblemku super kabeh wong podho ngiler<br>Jemblemku super kabeh wong podho ngiler<br><br>Saikine aku kepikiran<br>Suk kapan iso ngincipi jemblemmu<br>Angen angenku soko mbun-mbunan<br>Iso tak pangan sak durunge turu<br><br>Koyo wong sing meteng telung wulan<br>Aku iki yo ngidam jemblemmu<br>Seumpomo kudu tuku larang<br>Ra nduwe duwit wani dodol untu<br><br>Aku ngidam jemblemmu dhik<br>Jemblem sing endi mas<br>Jemblem sing kuwi dhik<br>Sing kuwi ngendi mas<br>Mosok ra ngerti<br>Pancen ra ngerti<br>Mbok yo ojo mbingungi<br>Yo jemblem sing mbok gembol kuwi<br><br>Dik, aku penasaran<br>Opo yo tenan kowe dodolan jajan<br>Nyawang kowe sing bakul jajan<br>Mesti wae jajanmu yo wenak tenan<br><br>Mas<br>Kuwi pancen bener mas<br>Tapi mung kari siji jenenge jemblem<br>Jemblemku jembleme super<br>Tak eman-eman masio wong podho ngiler<br>Jemblemku super kabeh wong podho ngiler<br>Jemblemku super kabeh wong podho ngiler<br><br>Saikine aku kepikiran<br>Suk kapan iso ngincipi jemblemmu<br>Angen angenku soko mbun-mbunan<br>Iso tak pangan sak durunge turu<br><br>Koyo wong sing meteng telung wulan<br>Aku iki yo ngidam jemblemmu<br>Seumpomo kudu tuku larang<br>Ra nduwe duwit wani dodol untu<br><br>Aku ngidam jemblemmu dhik<br>Jemblem sing endi mas<br>Jemblem sing kuwi dhik<br>Sing kuwi ngendi mas<br>Mosok ra ngerti<br>Pancen ra ngerti<br>Mbok yo ojo mbingungi<br>Yo jemblem sing mbok gembol kuwi<br><br>Aku ngidam jemblemmu dhik<br>Jemblem sing endi mas<br>Jemblem sing kuwi dhik<br>Sing kuwi ngendi mas<br>Mosok ra ngerti<br>Pancen ra ngerti<br>Mbok yo ojo mbingungi<br>Yo jemblem sing mbok gembol kuwi"
+    },
+    {
+      "id": 3,
+      "name_category": "CAMPURSARI",
+      "title": "BOJO LORO",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/7CMBOJOLOROLA.mp3",
+      "duration": "300",
+      "lyrics": "Abang biru lampune disko<br>Awak kuru Mas mikir bojo loro<br>Bojo sing enom njaluk di sayang<br>Sing tuwo njur wegah di tinggal<br><br>Sirah mumet ora bisa turu<br>Andum tresno Mas ugo andum waktu<br>Mikir butuhe mikir blanjane<br>Njur saiki bingung atine<br><br>Telung dino mulih rono<br>Telung dino bali neng kene<br>Sing sedino kanggu sopo<br>Sing sedino kanggu wong liyo<br><br>Abang biru lampune disko<br>Awak kuru Mas mikir bojo loro<br>Bojo sing enom njaluk di sayang<br>Sing tuwo njur wegah di tinggal<br><br>Sirah mumet ora bisa turu<br>Andum tresno Mas ugo andum waktu<br>Mikir butuhe mikir blanjane<br>Njur saiki bingung atine<br><br>Telung dino mulih rono<br>Telung dino bali neng kene<br>Sing sedino kanggu sopo<br>Sing sedino kanggu wong liyo<br><br>Abang biru lampune disko<br>Awak kuru Mas mikir bojo loro<br>Bojo sing enom njaluk di sayang<br>Sing tuwo njur wegah di tinggal<br><br>Sirah mumet ora bisa turu<br>Andum tresno Mas ugo andum waktu<br>Mikir butuhe mikir blanjane<br>Njur saiki bingung atine<br><br>Telung dino mulih rono<br>Telung dino bali neng kene<br>Sing sedino kanggu sopo<br>Sing sedino kanggu wong liyo<br>Sing sedino kanggu wong liyo<br>"
+    },
+    {
+      "id": 4,
+      "name_category": "CAMPURSARI",
+      "title": "GETHUK",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/6CMGETHUKLA.mp3",
+      "duration": "375",
+      "lyrics": "Sore-sore padang bulan<br>Ayo konco podo dolanan<br>Rene-rene bebarengan<br>Rame-rame e do gegojegan<br><br>Kae-kae rembulane<br>Yen disawang kok ngawe-awe<br>Koyo-koyo ngelingake<br>Konco kabeh ojo turu sore-sore<br><br>Gethuk, asale soko telo<br>Moto ngantuk, iku tambane opo?<br>Ach ach halah getuk asale soko telo<br>Yen ra petuk atine rodo gelo<br><br>Ojo ngono mas<br>Ojo-ojo ngono<br>Kadung janji mas<br>Aku mengko gelo<br><br>Sore-sore padang bulan<br>Ayo konco podo dolanan<br>Rene-rene bebarengan<br>Rame-rame e do gegojegan<br><br>Kae-kae rembulane<br>Yen disawang kok ngawe-awe<br>Koyo-koyo ngelingake<br>Konco kabeh ojo turu sore-sore<br><br>Gethuk, asale soko telo<br>Moto ngantuk, iku tambane opo?<br>Ach ach halah getuk asale soko telo<br>Yen ra petuk atine rodo gelo<br><br>Ojo ngono mas<br>Ojo-ojo ngono<br>Kadung janji mas<br>Aku mengko gelo<br><br>Sore-sore padang bulan<br>Ayo konco podo dolanan<br>Rene-rene bebarengan<br>Rame-rame e do gegojegan<br><br>Kae-kae rembulane<br>Yen disawang kok ngawe-awe<br>Koyo-koyo ngelingake<br>Konco kabeh ojo turu sore-sore<br><br>Gethuk, asale soko telo<br>Moto ngantuk, iku tambane opo?<br>Ach ach halah getuk asale soko telo<br>Yen ra petuk atine rodo gelo<br><br>Ojo ngono mas<br>Ojo-ojo ngono<br>Kadung janji mas<br>Aku mengko gelo<br><br>Gethuk, asale soko telo<br>Moto ngantuk, iku tambane opo?<br>Ach ach halah getuk asale soko telo<br>Yen ra petuk atine rodo gelo<br><br>Ojo ngono mas<br>Ojo-ojo ngono<br>Kadung janji mas<br>Aku mengko gelo<br>Ojo ngono mas<br>Ojo-ojo ngono<br>Kadung janji mas<br>Aku mengko gelo<br>"
+    },
+    {
+      "id": 5,
+      "name_category": "CAMPURSARI",
+      "title": "GULU PEDOT",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/5CMGULUPEDOTLA.mp3",
+      "duration": "330",
+      "lyrics": "Dudu watu hang di arani pasir<br>Watu kambang keli ono ring pinggir<br>Buru ketemu awak langsung naksir<br>Gelibegan koyo kelangan pikir<br><br>Uwit kelopo arane gelugu<br>Di sigari d poro dadi Pitu<br>Saben dino isun sing biso turu<br>Demen riko ngomong using kewetu<br><br>Aring aring mbakar gedang campur sawi<br>Sampek gering ulihe isun mikiri<br>Gedang sobo sak curung d pangan codot<br>Timbang wurung angur gulunisun pedot<br><br>Godong sawi enake uraban klopo<br>Ati iki estune mung kanggo riko<br>Gedang rojo sak curung d pereteli<br>Yen ra percoyo bedahen dodo iki<br><br>Dudu watu hang di arani pasir<br>Watu kambang keli ono ring pinggir<br>Buru ketemu awak langsung naksir<br>Gelibegan koyo kelangan pikir<br><br>Uwit kelopo arane gelugu<br>Di sigari d poro dadi Pitu<br>Saben dino isun sing biso turu<br>Demen riko ngomong using kewetu<br><br>Aring aring mbakar gedang campur sawi<br>Sampek gering ulihe isun mikiri<br>Gedang sobo sak curung d pangan codot<br>Timbang wurung angur gulunisun pedot<br><br>Godong sawi enake uraban klopo<br>Ati iki estune mung kanggo riko<br>Gedang rojo sak curung d pereteli<br>Yen ra percoyo bedahen dodo iki<br><br>Dudu watu hang di arani pasir<br>Watu kambang keli ono ring pinggir<br>Buru ketemu awak langsung naksir<br>Gelibegan koyo kelangan pikir<br><br>Uwit kelopo arane gelugu<br>Di sigari d poro dadi Pitu<br>Saben dino isun sing biso turu<br>Demen riko ngomong using kewetu<br><br>Aring aring mbakar gedang campur sawi<br>Sampek gering ulihe isun mikiri<br>Gedang sobo sak curung d pangan codot<br>Timbang wurung angur gulunisun pedot<br><br>Godong sawi enake uraban klopo<br>Ati iki estune mung kanggo riko<br>Gedang rojo sak curung d pereteli<br>Yen ra percoyo bedahen dodo iki<br><br>Timbang wurung angur gulunisun pedot<br>Yen ra percoyo bedahen dodo iki<br>Timbang wurung angur gulunisun pedot<br>Yen ra percoyo bedahen dodo iki<br>"
+    },
+    {
+      "id": 6,
+      "name_category": "CAMPURSARI",
+      "title": "JAMBU ALAS",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/4CMJAMBUALASLA.mp3",
+      "duration": "266",
+      "lyrics": "Kelingan manis eseme<br>Trus kelingan ramah gemuyune<br>Tresno lan kasih, kasih sayange<br>Karep atiku klakon dadi bojone<br><br>Sayange wis nduwe bojo<br>Nanging aku, aku wis kadung tresno<br>Nelongso rasaning ati<br>Yen aku ora klakon melu nduweni<br><br>Jambu alas kulite ijo<br>Sing digagas wis nduwe bojo<br>Ada gula ada semut<br>Durung rondho ojo direbut<br><br>Sumpah ning batin<br>Yen kulo bli dadi kawin<br>Tekating ati<br>Ora bakal luru ganti<br><br>Sumpah wis janji<br>Arep sehidup semati<br>Seneng lan sedih<br>Bareng-bareng dilakoni<br><br>Jambu alas dek manis rasane<br>Senajan tilas tak enteni rondhone<br><br>Sayange wis nduwe bojo<br>Nanging aku, aku wis kadung tresno<br>Nelongso rasaning ati<br>Yen aku ora klakon melu nduweni<br><br>Jambu alas kulite ijo<br>Sing digagas wis nduwe bojo<br>Ada gula ada semut<br>Durung rondho ojo direbut<br><br>Sumpah ning batin yen kulo bli dadi kawin<br>Tekating ati ora bakal luru ganti<br><br>Sumpah sumpah sumpahwis janji arep sehidup semati<br>Seneng lan sedih bareng-bareng dilakoni<br><br>Jambu alas dek manis rasane<br>Senajan tilas tak enteni rondhone<br><br>Kelingan manis eseme<br>Trus kelingan ramah gemuyune<br>Tresno lan kasih, kasih sayange<br>Karep atiku klakon dadi bojone<br>"
+    },
+    {
+      "id": 7,
+      "name_category": "CAMPURSARI",
+      "title": "SEWU KUTO",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/3CMSEWUKUTOLA.mp3",
+      "duration": "321",
+      "lyrics": "Sewo kuto uwis tak liwati<br>Sewu ati tak takoni<br>Nanging kabeh<br>Podo rangerteni<br>Lungamu neng endi<br>Pirang tahun aku nggoleki<br>Seprene durung biso nemoni<br><br>Wis tak coba<br>Nglaliake jenengmu<br>Soko atiku<br>Sak tenane aku ora ngapusi<br>Isih tresno sliramu<br><br>Umpamane kowe uwis mulyo<br>Lilo aku lilo<br>Yo mung siji dadi panyuwunku<br>Aku pengin ketemu<br>Senajan waktu mung sedelo<br>Kanggo tombo kangen jroning dodo<br><br>Wis tak coba<br>Nglaliake jenengmu<br>Soko atiku<br>Sak tenane aku ora ngapusi<br>Isih tresno sliramu<br><br>Umpamane kowe uwis mulyo<br>Lilo aku lilo<br>Yo mung siji dadi panyuwunku<br>Aku pengin ketemu<br>Senajan wektumu mung sedhela<br>Tak nggo tombo kangen jroning dodo<br><br>Wis tak coba<br>Nglaliake jenengmu<br>Soko atiku<br>Sak tenane aku ora ngapusi<br>Isih tresno sliramu<br><br>Umpamane kowe uwis mulyo<br>Lilo aku lilo<br>Yo mung siji dadi panyuwunku<br>Aku pengin ketemu<br>Senajan sak kedeping moto<br>Tak nggo tombo kangen jroning dodo<br>"
+    },
+    {
+      "id": 8,
+      "name_category": "CAMPURSARI",
+      "title": "SUMI SUMI",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/2CMSUMISUMILA.mp3",
+      "duration": "283",
+      "lyrics": "Dik kowe pancen ayu<br>Yen kowe nguyu nyenengke atiku<br>Lambane sigar jambe<br>Yen tak sawang dik tambah ayune<br><br>Dik aku naksir kowe<br>Opo kowe wis ono sing nduwe<br>Wis ono rong minggu<br>Tak simpen ono jero dodoku<br><br>Sumi sumi pancen ayu<br>Kembang deso asli wonogiri<br>Sumi sumi pancen ayu<br>Sumpah mati aku tresno sliramu<br><br>Sumi sumi pancen ayu<br>Kembang deso asli wonogiri<br>Sumi sumi pancen ayu<br>Wani sumpah sikilku ketiban palu<br><br>Opo mas kowe pancen tresno<br>Atiku iki isih ragu ragu<br>Yen pancene tresno<br>Cepet lamaren marang wong tuoku<br><br>Dik aku naksir kowe<br>Opo kowe wis ono sing nduwe<br>Wis ono rong minggu<br>Tak simpen ono jero dodoku<br><br>Sumi sumi pancen ayu<br>Kembang deso asli wonogiri<br>Sumi sumi pancen ayu<br>Sumpah mati aku tresno sliramu<br><br>Sumi sumi pancen ayu<br>Kembang deso asli wonogiri<br>Sumi sumi pancen ayu<br>Wani sumpah sikilku ketiban palu<br><br>Opo mas kowe pancen tresno<br>Atiku iki isih ragu ragu<br>Yen pancene tresno<br>Cepet lamaren marang wong tuoku<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "CAMPURSARI",
+      "title": "SRI MINGGAT",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/1CMSRIMINGGATLA.mp3",
+      "duration": "251",
+      "lyrics": "Sri, kapan kowe bali?<br>Kowe lungo ora pamit aku<br>Jarene neng pasar, pamit tuku trasi<br>Nganti saiki kowe durung bali<br><br>Sri, opo kowe lali?<br>Janjine sehidup semati<br>Aku ora nyono kowe ninggal lungo<br>Loro atiku, atiku loro<br><br>Ndang balio, sri<br>Ndang balio<br>Aku loro mikir kowe ono ing ngendi<br>Ndang balio, sri<br>Ndang balio<br>Tego tenan kowe minggat ninggalke aku<br><br>Yen pancene, sri<br>Kowe eling aku<br>Ndang balio, aku kangen setengah mati<br><br>Sri, opo kowe lali?<br>Janjine sehidup semati<br>Aku ora nyono kowe ninggal lungo<br>Loro atiku, atiku loro<br><br>Ndang balio, sri<br>Ndang balio<br>Aku loro mikir kowe ono ing ngendi<br>Ndang balio, sri<br>Ndang balio<br>Tego tenan kowe minggat ninggalke aku<br><br>Yen pancene, sri<br>Kowe eling aku<br>Ndang balio, aku kangen setengah mati<br><br>Ndang balio, sri<br>Ndang balio<br>Aku loro mikir kowe ono ing ngendi<br>Ndang balio, sri<br>Ndang balio<br>Tego tenan kowe minggat ninggalke aku<br><br>Yen pancene, sri<br>Kowe eling aku<br>Ndang balio, aku kangen setengah mati<br>Ndang balio, aku kangen setengah mati<br>"
+    },
+    {
+      "id": 10,
+      "name_category": "CAMPURSARI",
+      "title": "NYIDAM SARI",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/10CMNYIDAMSARILA.mp3",
+      "duration": "257",
+      "lyrics": "Umpama sliramu sekar melati<br>Aku kumbang nyidam sari<br>Umpama sliramu margi wong bagus<br>Pun kakang bakal ngliwati<br><br>Sineksen lintange luku semono<br>Janji prasetianing ati<br>Tansah kumatil ning netro resono<br>Keroso rasaning driyo<br><br>Midero sak jagad royo<br>Kalingono wukir lan samudro<br>Nora ilang memanise<br>Aduh dadi ati selawase<br><br>Nalikan iro ing dalu atiku<br>Lamlamen siro wong ayu<br>Nganti mati ora biso lali<br>Lha kae lintange mlaku<br><br>Umpama sliramu sekar melati<br>Aku kumbang nyidam sari<br>Umpama sliramu margi wong bagus<br>Pun kakang bakal ngliwati<br><br>Sineksen lintange luku semono<br>Janji prasetianing ati<br>Tansah kumatil ning netro resono<br>Keroso rasaning driyo<br><br>Midero sak jagad royo<br>Kalingono wukir lan samudro<br>Nora ilang memanise<br>Aduh dadi ati selawase<br><br>Nalikan iro ing dalu atiku<br>Lamlamen siro wong ayu<br>Nganti mari ora biso lali<br>Lha kae lintange mlaku<br>"
+    },
+    {
+      "id": 11,
+      "name_category": "CAMPURSARI",
+      "title": "OJO DIPLEROKI",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/11CMOJODIPLEROKILA.mp3",
+      "duration": "291",
+      "lyrics": "Mas mas mas ojo dipleroki<br>Mas mas mas ojo dipoyoki<br>Karepku njaluk diesemi<br><br>Tingkah lakumu kudu ngeti coro<br>Ojo ditinggal kepribaden ketimuran<br><br>Mengko cek keri ing jaman<br>Mbokyo sing eling dik<br>Eling bab opo<br>Iku budoyo<br>Pancene bener kandamu<br><br>Mas mas mas ojo dipleroki<br>Mas mas mas ojo dipoyoki<br>Karepku njaluk diesemi<br><br>Tingkah lakumu kudu ngerti coro<br>Ojo ditinggal kepribaden ketimuran<br><br>Mengko cek keri ing jaman<br>Mbokyo sing eling dik<br>Eling bab opo<br>Iku budoyo<br>Pancene bener kandamu<br><br>Mas mas mas ojo dipleroki<br>Mas mas mas ojo dipoyoki<br>Karepku njaluk diesemi<br><br>Tingkah lakumu kudu ngerti coro<br>Ojo ditinggal kepribaden ketimuran<br><br>Mengko cek keri ing jaman<br>Mboyo sing eling dik<br>Eling bab opo<br>Iku budoyo<br>Pancene bener kandamu<br><br>Mas mas mas ojo dipleroki<br>Mas mas mas ojo dipoyoki<br>Karepku njaluk diesemi<br><br>Tingkah lakumu kudu ngerti coro<br>Ojo ditinggal kepribaden ketimuran<br><br>Mengko cek keri ing jaman<br>Mboyo sing eling dik<br>Eling bab opo<br>Iku budoyo<br>Pancene bener kandamu<br><br>"
+    },
+    {
+      "id": 12,
+      "name_category": "CAMPURSARI",
+      "title": "MISTER MENDEM",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/12CMMISTERMENDEMLA.mp3",
+      "duration": "352",
+      "lyrics": "Aku wis kondho ciu marakke ciloko<br>Aku wis matur mensen ning omongan nglantur<br>Wis tak kandani yen vodka marakke lali<br>Bacut ngunjuk bir kakean dadine kenthir<br><br>Ora tak gagas penting sih so tuku beras<br>Ora tak anggep penting anak bojo wareg<br>Ojo’ muna-muni nuturi koyo bu kaji<br>Ditokke wae yen klenger wis ndlosor dewe<br><br>Ra keno tak kandani<br>Yen ngono aku ra sudi<br>Lilakno aku bali<br>Wong tuwaku kuat ngingoni<br><br>Ojo cekak atimu<br>Wis tak cukupke lelakonku<br>Pancene bener kandamu<br>Mergo mendem ngrusak awakku<br><br>Yen wis mari<br>Konco-konco dipamiti<br>Sukur bage<br>Mendem do ditinggalake<br><br>Selamat tinggal<br>Kancaku lereno ndugal<br>Dongakno kuat<br>Mendemku wis ora kumat<br><br>Aku wis kondho ciu marakke ciloko<br>Aku wis matur mensen ning omongan nglantur<br>Wis tak kandani yen vodka marakke lali<br>Bacut ngunjuk bir kakean dadine kenthir<br><br>Ora tak gagas penting sih so tuku beras<br>Ora tak anggep penting anak bojo wareg<br>Ojo’ muna-muni nuturi koyo kiai<br>Ditokke wae yen klenger wis ndlosor dewe<br><br>Ra keno tak kandani<br>Yen ngono aku ra sudi<br>Lilakno aku bali<br>Wong tuwaku kuat ngingoni<br><br>Ojo cekak atimu<br>Wis tak cukupke lelakonku<br>Pancene bener kandamu<br>Mergo mendem ngrusak awakku<br><br>Yen wis mari<br>Konco-konco dipamiti<br>Sukur bage<br>Mendem do ditinggalake<br><br>Selamat tinggal<br>Kancaku lereno ndugal<br>Dongakno kuat<br>Mendemku wis ora kumat<br>"
+    },
+    {
+      "id": 13,
+      "name_category": "CAMPURSARI",
+      "title": "SIDO RONDO",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/13CMSIDORONDOLA.mp3",
+      "duration": "394",
+      "lyrics": "Biyen mulo sliramu wes tak aturi<br>Golek bojo sing tresno welas sejati<br>Pungkasane sliramu digawe loro<br>Ora wurung saikine dadi rondo<br><br>Nanging piye kabeh iki wes kebacut aha aha<br>Ibarat bubur ra bakal dadi sego<br>Mulo getunku iki tanpa umpomo<br>Ngerti ngono lamaranmu sing tak tompo<br><br>Kabeh iki ora perlu digetuni<br>Janjiku biyen aku sanggup ngenteni<br>Kowe lan aku mugo dadi jodone<br>Ra keno prawane, tak enteni randane<br><br>Ora nyono sampeyan sabar ngenteni<br>Ing nyatane tresnomu tulus lan suci<br>Sing tak suwun sing gede pangapurane<br>Andum tresno bebojo lan selawase<br><br>Biyen mulo sliramu wes tak aturi<br>Golek bojo sing tresno welas sejati<br>Pungkasane sliramu digawe loro<br>Ora wurung saikine dadi rondo<br><br>Nanging piye kabeh iki wes kebacut aha aha<br>Ibarat bubur ra bakal dadi sego<br>Mulo getunku iki tanpa umpomo<br>Ngerti ngono lamaranmu sing tak tompo<br><br>Kabeh iki ora perlu digetuni<br>Janjiku biyen aku sanggup ngenteni<br>Kowe lan aku mugo dadi jodone<br>Ra keno prawane, tak enteni randane<br><br>Ora nyono sampeyan sabar ngenteni<br>Ing nyatane tresnomu tulus lan suci<br>Sing tak suwun sing gede pangapurane<br>Andum tresno bebojo lan selawase<br><br>Biyen mulo sliramu wes tak aturi<br>Golek bojo sing tresno welas sejati<br>Pungkasane sliramu digawe loro<br>Ora wurung saikine dadi rondo<br><br>Nanging piye kabeh iki wes kebacut aha aha<br>Ibarat bubur ra bakal dadi sego<br>Mulo getunku iki tanpa umpomo<br>Ngerti ngono lamaranmu sing tak tompo<br><br>Kabeh iki ora perlu digetuni<br>Janjiku biyen aku sanggup ngenteni<br>Kowe lan aku mugo dadi jodone<br>Ra keno prawane, tak enteni randane<br><br>Ora nyono sampeyan sabar ngenteni<br>Ing nyatane tresnomu tulus lan suci<br>Sing tak suwun sing gede pangapurane<br>Andum tresno bebojo lan selawase<br>"
+    },
+    {
+      "id": 14,
+      "name_category": "CAMPURSARI",
+      "title": "RONDO KEMPLING",
+      "image": "file:///android_asset/image/CD.jpg",
+      "link_mp3": "mp3/14CMRONDOKEMPLINGLA.mp3",
+      "duration": "438",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "KOPLO",
+      "title": "CAPING GUNUNG",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMCAPINGGUNUNGLA.mp3",
+      "duration": "259",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "KOPLO",
+      "title": "GUBUK",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMGUBUKLA.mp3",
+      "duration": "289",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "KOPLO",
+      "title": "JANU PEGEL MLARAT",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMJAMUPEGELMLARATLA.mp3",
+      "duration": "367",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "KOPLO",
+      "title": "JANDA BARU",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMJANDABARULA.mp3",
+      "duration": "443",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "KOPLO",
+      "title": "KEBELET",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMKEBELETLA.mp3",
+      "duration": "310",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "KOPLO",
+      "title": "KELINCI UCUL",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMKELINCIUCULLA.mp3",
+      "duration": "422",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "KOPLO",
+      "title": "LALI JANJINE",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMLALIJANJINELA.mp3",
+      "duration": "431",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "KOPLO",
+      "title": "LEWUNG",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMLEWUNGLA.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "KOPLO",
+      "title": "TALINGING ASMORO",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMLUNGITEASMOROLA.mp3",
+      "duration": "431",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "KOPLO",
+      "title": "MENDEM WEDOKAN",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMMENDEMWDOKANLA.mp3",
+      "duration": "369",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "KOPLO",
+      "title": "TRESNO SUDRO",
+      "image": "file:///android_asset/image/CK.jpg",
+      "link_mp3": "mp3/CMTRESNOSUDROLA.mp3",
+      "duration": "338",
+      "lyrics": ""
+    }
+
+  ]
+}
