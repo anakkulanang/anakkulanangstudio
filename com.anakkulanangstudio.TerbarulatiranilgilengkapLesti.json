@@ -1,0 +1,294 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "LESTI",
+    "image": "file:///android_asset/image/LS.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/LK.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "LESTI",
+    "title": "SAAT TERAKHIR",
+    "image": "file:///android_asset/image/LS.jpg",
+    "link_mp3": "mp3/AAASAATTERAKHIR.mp3",
+    "duration": "250",
+    "lyrics": "Tak pernah terpikir olehku<br>Tak sedikit pun kubayangkan<br>Kau akan pergi tinggalkanku sendiri<br><br>Begitu sulit kubayangkan<br>Begitu sakit kurasakan<br>Kau akan pergi tinggalkanku sendiri<br><br>Di bawah batu nisan kini<br>Kau t'lah sandarkan<br>Kasih sayang kamu begitu dalam<br>Sungguh 'ku tak sanggup ini terjadi<br>Karena 'ku sangat cinta<br><br>Inilah saat terakhirku melihat kamu<br>Jatuh air mataku menangis pilu<br>Hanya mampu ucapkan<br>Selamat jalan, kasih<br><br>Satu jam saja 'ku telah bisa<br>Cintai kamu, kamu, kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Satu jam saja 'ku telah bisa<br>Sayangi kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Hooo, di nantiku<br><br>Inilah saat terakhirku melihat kamu<br>Jatuh air mataku menangis pilu<br>Hanya mampu ucapkan<br>Selamat jalan, kasih<br><br>Satu jam saja 'ku telah bisa<br>Cintai kamu, kamu, kamu di hatiku<br>Namun bagiku melupakanmu<br>Butuh waktuku seumur hidup<br><br>Satu jam saja 'ku telah bisa<br>Sayangi kamu di hatiku<br>Namun bagiku lupakanmu<br>Butuh waktuku seumur hidup, hoo<br>"
+  },
+    {
+      "id": 2,
+      "name_category": "LESTI",
+      "title": "MATI GAYA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AAAMATIGAYA.mp3",
+      "duration": "202",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "LESTI",
+      "title": "HADIRMU BAGAI MIMPI",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AAAHADIRMUBAGAIMIMPI.mp3",
+      "duration": "337",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "LESTI",
+      "title": "KU INGIN",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AAA2KUINGIN.mp3",
+      "duration": "310",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "LESTI",
+      "title": "BISMILAH CINTA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AAA1BISMILAHCINTA.mp3",
+      "duration": "236",
+      "lyrics": "Tak dapat lagi kulukis rasa<br>Ramadhan yang indah kini telah tiba<br>Bulan penuh berkah rahmat dari Allah<br>Meski dalam suasana berbeda<br><br>Cobaan demi cobaan melanda<br>Kita bersama namun tak lagi sama<br>Jarak memisahkan semua telah berbatas<br>Ini ujian bagi kita<br><br>Bismillah cinta<br>Percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br><br>Bismillah cinta<br>Panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br><br>Bismillah cinta<br>Percaya kita<br>Bismillah cinta<br>Percaya cinta<br><br>Bismillah cinta percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br>Bismillah cinta panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br><br>Bismillah cinta percaya padaku percaya cinta<br>Yakin kita bisa lalui semua<br>Segala cobaan yang datang mendera<br><br>Bismillah cinta panjatkan doa pada yang kuasa<br>Bersujud padanya dengan air mata<br>Insya Allah Ramadhan membawa hikmah<br>Ha ha<br>Bismillah cinta<br>Bismillah cinta<br>"
+    },
+    {
+      "id": 6,
+      "name_category": "LESTI",
+      "title": "PEMIMPINMU",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AA2PEMIMPINMU.mp3",
+      "duration": "218",
+      "lyrics": "Hai, gadis manis<br>Yang teramat manis<br>Yang membuatku gugup saat<br>Mencoba ucapkan<br><br>Selamat pagi, manis<br>Jangan terlalu manis<br>Tak selamanya ku bisa tenang<br>Tanpa ingin coba<br><br>Menggenggam tanganmu, selalu<br>Tuk melindungimu<br>Lama-lama ku kan ungkapkan<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br><br>Tenanglah sayang<br>Tak perlu kau bimbang<br>Telah aku kosongkan ruang<br>Di dalam hati<br><br>Untuk kau tempati, sayang<br>Kini ku yang tak tenang<br>Berharap kau mengangguk senang<br>Dan kau pun berkenan<br><br>Ku genggam tanganmu, selalu<br>Tuk melindungimu<br>Dengarkanlah yang kuungkapkan<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br>Wo-oo-ooohh<br><br>Pergilah denganku<br>Biar ku yang menjemputmu<br>Bicara denganku<br>Ku kan selalu mendengarmu<br><br>Berjalan denganku<br>Biar ku yang menuntunmu<br>Tetap bersamaku (bersamaku)<br>Tetap bersamaku<br>Biar ku yang jadi pemimpinmu<br>"
+    },
+    {
+      "id": 7,
+      "name_category": "LESTI",
+      "title": "BAWA AKU KE PENGHULU",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AA1BAWAAKUKEPENGHULU.mp3",
+      "duration": "249",
+      "lyrics": "Pucuk dicinta ulam pun tiba kata pepatah<br>Kubutuh cinta kamu pun datang aku bahagia<br>Pernah merasa sakitnya cinta hati kecewa<br>Lalu kau hadir aku terlena tiada berdaya<br><br>Bunga yang layu kini mekar kembali<br>Kau siram dengan cinta sepenuh hati<br>Ditinggal nikah kulepas dengan ikhlas<br>Gantinya kamu ikhlas membawa berkah<br><br>Aku siap jadi milikmu<br>Siapkah kau menjadi imamku<br><br>Aku takut fitnah dan dosa<br>Bila berdua-dua denganmu<br><br>Apa lagi yang kau tunggu<br>Jadikan aku halal untukmu<br>Ayah Ibu beri restu<br>Bawa aku ke penghulu<br><br>Pernah merasa sakitnya cinta hati kecewa<br>Lalu kau hadir aku terlena tiada berdaya<br><br>Bunga yang layu kini mekar kembali<br>Kau siram dengan cinta sepenuh hati<br>Ditinggal nikah kulepas dengan ikhlas<br>Gantinya kamu ikhlas membawa berkah<br>Aku siap jadi milikmu<br>Siapkah kau menjadi imamku<br><br>Aku takut fitnah dan dosa<br>Bila berdua-dua denganmu<br><br>Apa lagi yang kau tunggu<br>Jadikan aku halal untukmu<br>Ayah Ibu beri restu<br>Bawa aku ke penghulu<br<br>Bawa aku ke penghulu<br>Ho sayang<br>"
+    },
+    {
+      "id": 8,
+      "name_category": "LESTI",
+      "title": "TAKDIR CINTA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AA1ABTAKDIRCINTA.mp3",
+      "duration": "202",
+      "lyrics": "Bismillah Dengan Menyebut Nama Allah<br>Izinkan Aku, Mencintaimu<br>Di Jalan Yang Di Ridhoi-Nya<br>Bismillah Dengan Menyebut Nama Allah<br>Ku Doakan Dirimu, Menjadi Jodoh Ku<br>Imam Pemimpin Dalam Hidupku<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br>Menjadi Pendamping Dalam Sebuah Takdir Cinta<br><br>Dengan Ridho- Nya, Ku Ucap Janji Suci Kita Berdua<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br>Menjadi Pendamping Dalam Sebuah Takdir Cinta<br><br>Insya Allah Ku Jaga Dirimu<br>Dengan Seluruh Cintaku<br>Hidup Dan Matiku<br>Insya Allah Ku Jaga Kehormatanku<br><br>Menjadi Pendamping Dalam<br>Menjadi Pendamping Dalam<br>Sebuah Takdir Cinta<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "LESTI",
+      "title": "LENTERA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AA1AALENTERA.mp3",
+      "duration": "210",
+      "lyrics": "Wahai Pagi Mengajariku Artinya Kesejukan<br>Wahai Malam Mengajariku Artinya Keheningan<br>Dan Tuhanpun Percaya Menitipkan Kamu Padaku<br>Dan Ini Pun Mengajariku Cinta Tiada Batas<br><br>Denyutmu Ada Dalam Denyutku<br>Meskipun Sulit Ku Upayakan<br>Meraih Bintang Meraih Bulan Hanya Untukmu<br><br>Tak Kan Kubiarkan<br>Kegagalan Menyelimutimu<br>Kegelapan Mendampingimu<br>Akulah Lentera Dihidupmu<br><br>Bila Sendu Hadir<br>Ku Pasti Menggantikan Tempatmu<br>Jantungpun Pasti Akan Kuberi<br>Surgamu Ada Padaku<br><br>Denyutmu Ada Dalam Denyutku<br>Meskipun Sulit Ku Upayakan<br>Meraih Bintang Meraih Bulan Hanya Untukmu<br><br>Tak Kan Kubiarkan<br>Kegagalan Menyelimutimu<br>Kegelapan Mendampingimu<br>Akulah Lentera Dihidupmu<br><br>Bila Sendu Hadir<br>Ku Pasti Menggantikan Tempatmu<br>Jantungpun Pasti Akan Kuberi<br>Surgamu Ada Padaku<br>"
+    },
+    {
+      "id": 10,
+      "name_category": "LESTI",
+      "title": "KUEPAS DENGAN IKHLAS",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/AAKULEPASDENGAIKHLAS.mp3",
+      "duration": "315",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "LESTI",
+      "title": "MELIHATMU BAHAGIA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/ABMELIHATMUBAHAGIA.mp3",
+      "duration": "217",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "LESTI",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/ATTIRANI.mp3",
+      "duration": "384",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "LESTI",
+      "title": "IBU",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/BTAIBUDU.mp3",
+      "duration": "367",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "LESTI",
+      "title": "ADA CERITA",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/CTADACERITADU.mp3",
+      "duration": "215",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LESTI",
+      "title": "EGOIS X AKU PERGI",
+      "image": "file:///android_asset/image/LS.jpg",
+      "link_mp3": "mp3/DTEGOISAKUPERGIDU.mp3",
+      "duration": "341",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "CITRA CINTA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/ETCITRACINTADU.mp3",
+      "duration": "286",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "KEJORA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/FTKEJORADU.mp3",
+      "duration": "322",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/GTEGOIS.mp3",
+      "duration": "252",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "PERTEMUAN",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/HTPERTEMUANLES.mp3",
+      "duration": "362",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "PURNAMA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/ITPURNAMADU.mp3",
+      "duration": "245",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "LEBIH DARI SELAMANYA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/JTLEBIHDARISELAMANYADU.mp3",
+      "duration": "357",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "TAK DAPAT TIDUR",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/KTTAKDAPATTIDUELES.mp3",
+      "duration": "263",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "BUKA MATA BUKA HATI",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/LTBUKAMATAHATILES.mp3",
+      "duration": "261",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "ZAPIN MELAYU",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/MTZAPINMELAYULES.mp3",
+      "duration": "264",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "AKU PERGI",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/TAKUPERGIDU.mp3",
+      "duration": "235",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "BUKAN CINTA BIASA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/TBUKANCINTABIASADU.mp3",
+      "duration": "333",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "CUMA KAMU",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/TRCUMAKAMULES.mp3",
+      "duration": "282",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "MATI GAYA",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/TRMATIGAYALES.mp3",
+      "duration": "203",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "MAWAR PUTIH",
+      "image": "file:///android_asset/image/LK.jpg",
+      "link_mp3": "mp3/TRMAWARPUTIHLES.mp3",
+      "duration": "275",
+      "lyrics": ""
+    }
+
+  ]
+}
