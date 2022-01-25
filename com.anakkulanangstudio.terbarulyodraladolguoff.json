@@ -1,0 +1,258 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/LYD.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/LYY.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "SECRET LOVE SONG",
+    "image": "file:///android_asset/image/LYD.jpg",
+    "link_mp3": "mp3/AYOSECRETLOVESONG.mp3",
+    "duration": "171",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "HATI YANG KAU SAKITI",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AAHATIYANGKAUSAKITI.mp3",
+      "duration": "170",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "GEMINTANG HATIKU",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AAGEMINTANGHATIKU.mp3",
+      "duration": "213",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "MENGAPA KITA",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AABMENGAPAKITA.mp3",
+      "duration": "211",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "TENTANG KAMU",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AAATENTANGKAMU.mp3",
+      "duration": "213",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "SABDA RINDU",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AA2SABDARINDU.mp3",
+      "duration": "193",
+      "lyrics": "Malam-malam tak berbintang<br>Jadi terang menantikanmu<br>Malam-malam kau ajak berbincang<br>Tanya apa kabarku<br><br>Pipiku merona ku tersipu malu<br>Hanya mendengar hangat suaramu<br><br>Kangen dirimu<br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku<br><br>Malam-malam tak berbintang<br>Ku merindu ingin berjumpa dirimu<br>Oh bunyi dering rindu obati sakitnya<br>Lama kita tak bertemu<br><br>Pipiku merona ku tersipu malu<br>Hanya mendengar hangat suaramu<br><br>Kangen dirimu<br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku<br><br>Oh-oo-oo<br>Ku menanti Ku menanti<br>Hati ini menunggu Oh-oo<br>Dirimu Oh-oo-oo<br><br>Meski jauh, kau dekat di hatiku<br>Nimatnya rindu kangen dirimu<br><br>Ingat selalu hati kita satu<br>Meski engkau jauh<br>Mari nikmati sabda rindu yang melagu<br><br>Ingat sayang meski tak bertemu<br>Indahnya merindu<br>Beri senyuman<br>Detak di jantungku, ho<br><br>Ingat selalu hati kita satu<br>Meski jauh kau ada di hatiku<br>Nikmatilah sabda rindu<br>Sabda rindu yang melagu<br><br>Ingat selalu hati kita satu<br>Meski jauh kau ada di hatiku<br>Nikmatilah sabda rindu<br>Sabda rindu yang melagu<br>Sayang<br>Sayang<br>"
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "KALAU BOSAN",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AA1KALAUBOSAN.mp3",
+      "duration": "221",
+      "lyrics": "Wajar dalam hubungan<br>Cinta kadang memang naik turun<br>Hati yang punya peranan<br>Untuk lebih saling pengertian<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Aku di sini takut kamu hilang<br><br>Ikuti saja alurnya<br>Bila jenuh tak ada salahnya<br>Ingat kenangan berdua<br>Tawa luka kita hadapi bersama<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Aku di sini takut kamu hilang<br><br>Kalau kamu bosan<br>Jangan menghilang<br>Kalau kamu bosan<br>Kamu bisa bilang<br>Tapi kalau bosan<br>Jangan kamu cari peluang<br>Ku di sini takut kamu hilang<br>Ku di sini masih ada sayang<br>Kalau kamu bosan<br>Jangan menghilang<br>"
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "DIBANDING DIA",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AA1ABDIBANDINGDIA.mp3",
+      "duration": "350",
+      "lyrics": "Untuk kamu setengah nyawaku<br>Ku tahu kau bukan milikku<br>Terkadang bermimpi lagi<br>Engkau nanti milikku<br><br>Untuk kamu peluluh hatiku<br>Yang juga patahkan hatiku<br>Ku sadar aku yang salah<br>Mendalami hidupmu<br><br>Bila ku tak buat bahagia<br>Acuhkanlah aku<br>Sungguh aku lebih mencintaimu dibanding dia<br>Aku bakal buktikan perasaanku seutuhnya<br>Sungguh aku lebih mendalamimu dibanding diaAku mohon padamu dengarkanlah bisikanku<br><br>Untuk kamu doa di malamku<br>Selalu ku ucap namamu<br>Bila ku tak buat bahagia<br>Selesaikan aku<br><br>Sungguh aku lebih mencintaimu dibanding dia<br>Aku bakal buktikan perasaanku seutuhnya<br>Sungguh aku lebih mendalamimu dibanding dia<br>Aku mohon padamu dengarkanlah bisikanku<br>Dengarkanlah ha bisikanku<br>Mencintaimu di banding dia<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "PESAN TERAKHIR",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/AA1AAPESANTERAKHIR.mp3",
+      "duration": "227",
+      "lyrics": "Tlah kucoba trus bertahan<br>Tentang cinta yang kurasa<br>Ku mencinta, kau tak cinta<br>Tak sanggup ku terus bertahan<br><br>Sadar ku tak berhak untuk terus memaksamu<br>Memaksamu mencintaiku sepenuh hati<br>Aku kan berusaha untuk melupakanmu<br>Tapi terimalah permintaan terakhirku<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu, ho-oh<br><br>Ku tak membencimu<br>Kuharap kau pun begitu, ha-ah kuharap begitu, yeah, yeay<br>Tak ingin kau jauh<br>Tapi takdir menginginkan kita tuk berpisah<br><br>Genggam tanganku, sayang<br>Dekat denganku, peluk diriku<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br><br>Ho-oh<br>Dekat denganku, peluk diriku Oh-oh<br>Berdiri tegak di depan aku<br>Cium keningku tuk yang terakhir<br><br>Ku kan menghilang jauh darimu<br>Tak terlihat sehelai rambut pun<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br>Tapi di mana nanti kau terluka<br>Cari aku, ku ada untukmu<br>"
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "THE PRAYER",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/BYOTHEPRAYER.mp3",
+      "duration": "294",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "JIKALA KAU CINTA",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/CYOJIKALAUKAUCINTA.mp3",
+      "duration": "185",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "BUKTI",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/DYOBUKTI.mp3",
+      "duration": "238",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "INTO THE UNKNOW",
+      "image": "file:///android_asset/image/LYD.jpg",
+      "link_mp3": "mp3/EYOINTOTHEUNKNOWN.mp3",
+      "duration": "175",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "LENGKAP",
+      "title": "LAKSMANA RAJA DILAUT",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/FYOLAKSMANARAJADILAUT.mp3",
+      "duration": "176",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LENGKAP",
+      "title": "SYMPONY YANG INDAH",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/GYOSYMPHONYYANINDAH.mp3",
+      "duration": "160",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "CONTER OARTIRO",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/HYOCONTEPARTIRO.mp3",
+      "duration": "163",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "I TALL COMING BACK TO ME",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/IYOITALLCOMINGBACKTOME.mp3",
+      "duration": "152",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "RINGS",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/JYO7RINGS.mp3",
+      "duration": "150",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "REKAYASA CINTA",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/KYOREKAYASACINTA.mp3",
+      "duration": "171",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "MENUNGGU KAMU",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/LYOMENUNGGUKAMU.mp3",
+      "duration": "179",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "I WILL SURVIVE",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/YOIWILLSURVIVE.mp3",
+      "duration": "142",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "SEBUAH RASA",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/YOSEBUAHRASA.mp3",
+      "duration": "161",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "SIDE TO SIDE",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/YOSIDETOSIDE.mp3",
+      "duration": "173",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "TILL IT HURTS",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/YOTILLITHURTS.mp3",
+      "duration": "131",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "MERASA INDAH",
+      "image": "file:///android_asset/image/LYY.jpg",
+      "link_mp3": "mp3/ZTIARMERASAINDAH.mp3",
+      "duration": "214",
+      "lyrics": ""
+    }
+
+  ]
+}
