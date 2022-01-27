@@ -1,0 +1,240 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "SALLSA",
+    "image": "file:///android_asset/image/SL.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/SLL.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "SALLSA",
+    "title": "SKJ",
+    "image": "file:///android_asset/image/SL.jpg",
+    "link_mp3": "mp3/9SLSKJTAN.mp3",
+    "duration": "209",
+    "lyrics": "Baru sebentar saja<br>Kau bergegas meninggalkanku<br>Rasa rindu padamu<br>Kini bersarang di benakku<br><br>Cinta itu anugerah<br>Yang tak mungkin mudah<br>Kumelepaskannya<br><br>Walau seribu rintangan<br>Tak gentar ku untuk<br>Menjalani semua denganmu<br><br>Dengarkanlah aku yang setia di hatimu<br>Kehadiranmu sungguh berharga bagiku<br>Maka jangan terlalu lama engkau jauh<br>Jauh di pandangan mataku<br><br>Semua rasa curigaku terhadapmu<br>Semata karena ku takut kehilanganmu<br>Maka jangan coba tuk berpaling dariku<br>Berpaling mengkhianatiku<br><br>Cinta itu anugerah<br>Yang tak mungkin mudah<br>Ku melepaskannya<br>Walau seribu rintangan<br>Tak gentarku untuk<br>Menjalani semua denganmu<br><br>Dengarkanlah aku yang setia di hatimu<br>Kehadiranmu sungguh berharga bagiku<br>Maka jangan terlalu lama engkau jauh<br>Jauh di pandangan mataku<br><br>Se-semua rasa curigaku terhadapmu<br>Semata karena ku takut kehilanganmu<br>Maka jangan coba tuk berpaling dariku<br>Berpaling mengkhianatiku<br><br>Dengarkanlah aku yang setia di hatimu<br>Kehadiranmu sungguh berharga bagiku<br>Maka jangan terlalu lama engkau jauh<br>Jauh di pandangan mataku<br><br>Se-semua rasa curigaku terhadapmu<br>Semata karena ku takut kehilanganmu<br>Maka jangan coba tuk berpaling dariku<br><br>Berpaling mengkhianatiku<br>Berpaling mengkhianatiku<br>Berpaling mengkhianatiku<br>Berpaling mengkhianatiku<br>"
+  },
+    {
+      "id": 2,
+      "name_category": "SALLSA",
+      "title": "SATU NAMA TETAP DIHATI",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/8SLSATUNAMATETAPDIHATITAN.mp3",
+      "duration": "300",
+      "lyrics": "Ada satu nama suatu masa dulu<br>Pernah bawa dan beri bahagia<br>Hingga saat ini<br>Masih ku abadikan di dalam hatiku<br><br>Dengan satu rasa dalam satu cinta<br>Sewaktu kita bersama dulu<br>Hanya kita yang tahu<br>Dalam mana telah cinta<br>Kita memutik<br><br>Walau akhir ini seakan terpisah<br>Oleh masa dan suasana tak dipinta<br>Namun percayalah tidak sedikit pun<br>Kasihku kepadamu surut dan berubah<br><br>Pasti suatu masa kan bersama lagi<br>Engkau dan aku pasti jua nikmati<br>Cinta yang istimewa<br>Walau ku tak pasti bilakah masanya<br>Kau dan aku akan bertemu<br>Untuk kita kembalikan keindahan dulu<br><br>Walau akhir ini seakan terpisah<br>Oleh masa dan suasana tak dipinta<br>Namun percayalah tidak sedikit pun<br>Kasihku kepadamu surut dan berubah<br><br>Pasti suatu masa kan bersama lagi<br>Engkau dan aku pasti jua nikmati<br>Cinta yang istimewa<br>Walau ku tak pasti bilakah masanya<br>Kau dan aku akan bertemu<br>Untuk kita kembalikan keindahan dulu<br><br>Walau akhir ini seakan terpisah<br>Oleh masa dan suasana tak dipinta<br>Namun percayalah tidak sedikit pun<br>Kasihku kepadamu surut dan berubah<br><br>Pasti suatu masa kan bersama lagi<br>Engkau dan aku pasti jua nikmati<br>Satu cinta yang indah<br>Walau ku tak pasti bilakah masanya<br>Kau dan aku akan bertemu<br>Untuk kita kembalikan keindahan dulu<br><br>Dengan satu rasa dalam satu cinta<br>Sewaktu kita bersama dulu<br>Kusemat di dalam hati<br>Hingga kita kan bertemu<br>Kemudian hari<br>"
+    },
+    {
+      "id": 3,
+      "name_category": "SALLSA",
+      "title": "DINDA JANGAN MARAH MARAH",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/7SLDINDAJANGANMARAHMARAHTAN.mp3",
+      "duration": "218",
+      "lyrics": "Apa kabar dinda<br>Lama tak jumpa<br>Rasanya hampir dua purnama<br>Rindu di dada tak siapa yang tahu<br><br>Dinda jauh di sana<br>Jauh di mata<br>Namun di hari sentiasa ada<br>Menemani di kala gundah gulana<br><br>Dinda kanda pergi hanya<br>Seketika cuma<br>Inikan semua demi<br>Masa depan kita<br><br>Dinda jangan marah marah<br>Takut nanti lekas tua<br>Kanda setia orangnya<br>Takkan pernah mendua<br><br>Dari jutaan bintang<br>Dinda paling gemerlapan<br>Dari segenap wanita<br>Dindalah yang paling menawan<br><br>Dinda kanda pergi hanya<br>Seketika cuma<br>Inikan semua demi<br>Masa depan kita<br><br>Dinda jangan marah marah <br>Takut nanti lekas tua<br>Kanda setia orangnya<br>Takkan pernah mendua<br><br>Dari jutaan bintang<br>Dinda paling gemerlapan<br>Dari segenap wanita<br>Dindalah yang paling menawan<br><br>Dinda jangan marah marah <br>Takut nanti lekas tua<br>Kanda setia orangnya<br>Takkan pernah mendua<br><br>Dari jutaan bintang<br>Dinda paling gemerlapan<br>Dari segenap wanita<br>Dindalah yang paling menawan<br>"
+    },
+    {
+      "id": 4,
+      "name_category": "SALLSA",
+      "title": "KU TK AKAN BERSUARA",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/6SLKUTAKAKANBERSUARATAN.mp3",
+      "duration": "277",
+      "lyrics": "Ku tak akan bersuara<br><br>Izinkan cintaku berbunga di hatimu<br>Biar terus mekar jadi kenyataan<br>Telah lama ku dahaga belaian seorang insan<br>Semoga bersamamu ceria hidupku<br><br>Ku tak akan bersuara walau dirimu kekurangan<br>Hanya setiamu itu ku harapkan<br>Ku tak akan menduakan walau kilauan menggoda<br>Kasih dan sayangku tetap utuh untukmu<br>Hanya ku pinta darimu setialah selamanya<br>Sehingga abadi cinta ini sayang itu ku doakan<br><br>Ku tak akan bersuara walau dirimu kekurangan<br>Hanya setiamu itu ku harapkan<br>Ku tak akan menduakan walau kilauan menggoda<br>Kasih dan sayangku tetap utuh untukmu<br>Hanya ku pinta darimu<br>Setialah selamanya sehingga abadi<br>Cinta ini sayang itu ku doakan<br><br>Tak mugkin kan terjadi<br>Kehancuran cinta kita<br>Andainya hatimu seperti hatiku<br>seperti hatiku<br><br>Ku tak akan bersuara walau dirimu kekurangan<br>Hanya setiamu itu ku harapkan<br>Ku tak akan menduakan walau kilauan menggoda<br>Kasih dan sayangku tetap utuh untukmu<br>Hanya ku pinta darimu<br>Setialah selamanya sehingga abadi<br>Cinta ini sayang itu ku doakan<br>"
+    },
+    {
+      "id": 5,
+      "name_category": "SALLSA",
+      "title": "KU INGIN KAU MATI SAJA",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/5SLKUINGINMATISAJATAN.mp3",
+      "duration": "245",
+      "lyrics": "baby we’re good friends for so long<br>kau bilang sayang entah benar atau bohong<br>bilang rindu and all of your feeling<br>do you really really mean all of those thing<br><br>saat ku akan berikan cintaku<br>you are changing, who the h-ll are you<br>apa maksudmu hancurkan harapanku<br>are you happy breaking my heart in two<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>di malam ini ku yakin kau bersama orang lain<br>semua ucapanmu kini bagai sebuah angin lalu<br>kau bilang padaku kau butuh diriku tuk disampingmu<br>tapi kenyataannya kau tak ada disisiku<br>sudah lupakan lupakan saja semua cerita<br>yang terjalin terjalin diantara kita<br>tak sanggup lagi diriku untuk berkata-kata<br>karna ku ingin ku ingin kau mati saja<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja<br>"
+    },
+    {
+      "id": 6,
+      "name_category": "SALLSA",
+      "title": "MENCARI ALASAN",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/4SLMENCARIALASANTAN.mp3",
+      "duration": "285",
+      "lyrics": "iklasnya hati sering kali disalah arti<br>tulusnya cinta tidak pernah engkau hargai<br>berlalu pergi dengan kelukaan ini<br>ku mengalah ku bersalah<br><br>berpaling muka bila saling bertatap mata<br>seolah kita tiada pernah saling menyinta<br>mencari sebab serta mencari alasan<br>supaya tercapai hasratmu<br><br>manis di bibir memutar kata<br>malah kau tuduh akulah segala penyebabnya<br>siapa terlena pastinya terpana<br>bujuknya rayunya suaranya<br>yang meminta simpati dan harapan<br><br>engkau pasti tersenyum<br>dengan pengunduran diriku<br>tetapi bagi diriku suatu ketenangan<br>andainya kita terus bersama<br>belum tentu kita bahagia<br>selama tidak kau rubah cara hidupmu<br><br>ada baiknya bila tidak lagi bersama<br>terasa jauh kini ku kini dengan dosa<br>aku tinggalkan walau tanpa kerelaan<br>yang nyata kau tidak mengubah<br><br>manis di bibir memutar kata<br>malah kau tuduh akulah segala penyebabnya<br>siapa terlena pastinya terpana<br>bujuknya rayunya suaranya<br>yang meminta simpati dan harapan<br><br>engkau pasti tersenyum<br>dengan pengunduran diriku<br>tetapi bagi diriku suatu ketenangan<br>andainya kita terus bersama<br>belum tentu kita bahagia<br>selama tidak kau rubah cara hidupmu<br><br>Katakan apa yang kau ingin<br>Selagi kau dapat berkata<br>Memang begini sikapmu<br>Semenjak dahulu<br>Andainya kita terus bersama<br>Belum tentu kita bahagia<br>Selama tidak kau rubah cara hidupmu<br>"
+    },
+    {
+      "id": 7,
+      "name_category": "SALLSA",
+      "title": "DUKA",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/3SLDUKATAN.mp3",
+      "duration": "302",
+      "lyrics": "Kau membunuhku dengan kepedihan ini<br>Kau hempaskanku kedalam retaknya hati<br>Hingga ku takkan bisa<br>Tuk melukiskan perih<br>Yang kau ukir dalam hati ini<br><br>Kau hancurkan diriku saat engkau pergi<br>Setelah kau patahkan sayap ini<br>Hingga ku takkan bisa<br>Tuk terbang tinggi lagi<br>Dan mencari bintang<br>Yang dapat menggantikanmu<br><br>Sampai kini masih kucoba<br>Tuk terjaga dari mimpiku<br>Yang buatku tak sadar<br>Bahwa kau bukan lagi milikku<br>Walau hati tak akan pernah<br>Dapat melupakan dirimu<br>Dan tiap tetes air mata<br>Yang jatuh kuatkan rinduku<br>Pada indah bayangmu canda tawamu<br>Pada indahnya duka dalam kenangan kita<br><br>Kau hancurkan diriku saat engkau pergi<br>Setelah kau patahkan sayap ini<br>Hingga ku takkan bisa<br>Tuk terbang tinggi lagi<br>Dan mencari bintang<br>Yang dapat menggantikanmu<br><br>Sampai kini masih kucoba<br>Tuk terjaga dari mimpiku<br>Yang buatku tak sadar<br>Bahwa kau bukan lagi milikku<br>Walau hati tak akan pernah<br>Dapat melupakan dirimu<br>Dan tiap tetes air mata<br>Yang jatuh kuatkan rinduku<br>Pada indah bayangmu canda tawamu<br>Pada indahnya duka dalam kenangan kita<br><br>Sampai kini masih kucoba<br>Tuk terjaga dari mimpiku<br>Yang buatku tak sadar<br>Bahwa kau bukan lagi milikku<br><br>Walau hati tak akan pernah<br>Dapat melupakan dirimu<br>Dan tiap tetes air mata<br>Yang jatuh kuatkan rinduku<br><br>Pada indah bayangmu canda tawamu<br>Pada indahnya duka dalam kenangan kita<br>"
+    },
+    {
+      "id": 8,
+      "name_category": "SALLSA",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/2SLBUIHJADIPERMADAITAN.mp3",
+      "duration": "317",
+      "lyrics": "Dinginnya angin malam ini<br>Menyapa tubuhku<br>Namun tidak dapat di inginkan panasnya<br>Hatiku ini<br><br>Terasa terhempasnya kewanitaanku ku ini<br>Dengan sikapmu<br>Apakah karena aku<br>Insan kekurangan<br>Mudahnya kau mainkan<br><br>Oh mungkinkah diri ini<br>Dapat merubah buih<br>Yang memutih<br>Menjadi permadani<br>Seperti pinta<br>Yang kau ucap<br>Dalam janji cinta<br><br>Juga mustahil bagiku<br>Menggapai bintang dilangit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku<br>Tiada mampu<br><br>Salah aku juga<br>Karena jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku<br>Cerminkan diriku<br>Sebelum tirai hati<br>Aku buka<br>untuk mencintaimu<br><br>Oh mungkinkah diri ini<br>Dapat merubah buih<br>Yang memutih<br>Menjadi permadani<br>Seperti pinta<br>Yang kau ucap<br>Dalam janji cinta<br><br>Juga mustahil bagiku<br>Menggapai bintang dilangit<br>Siapalah diriku<br>Hanya insan biasa<br>Semua itu<br>Sungguh aku<br>Tiada mampu<br><br>Salah aku juga<br>Karena jatuh cinta<br>Insan seperti dirimu seanggun bidadari<br>Seharusnya aku<br>Cerminkan diriku<br>Sebelum tirai hati<br>Aku buka<br>untuk mencintaimu<br>"
+    },
+    {
+      "id": 9,
+      "name_category": "SALLSA",
+      "title": "ACA ACA NEHI NEHI",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/1SLACACANEHINEHITAN.mp3",
+      "duration": "290",
+      "lyrics": "Mau makan, mau minum bikin sendiri<br>Cuci baju-celana, nyetrika pun sendiri<br>Apalagi bila tanggal tua mendekati<br>Aku bagai perawan yang tak punya suami<br><br>Nasib, memang nasib jadi begini<br>Semuanya apa-apa kulakukan sendiri<br>Lama-lama mumet juga, eh, kalo begini<br>Bisa talak tilu, talak tilu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Pulang saja, kau pulang ke rumah orang tuamu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila dirimu terus begitu<br>Aku pulangkan kamu<br><br>maunya aku marah, eh, aku bingung sendiri<br>Baru mau ngomong, eh, malah ditinggal pergi<br>Mondar-mandir sendiri bingung mau ngapain<br>Ampun, Gusti, ampuni hamba-Mu ini<br><br>Bila ada uang, abang disayang<br>Bila tak ada jatah kopi pun hilang<br>Lama-lama kalau begini rontok hatiku<br>Bisa talak tilu, talak tilu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Pulang saja, kau pulang ke rumah orang tuamu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila dirimu terus begitu<br>Aku pulangkan kamu-mu-mu-mu-mu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Pulang saja, kau pulang ke rumah orang tuamu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Aku pulangkan kamu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Pulang saja, kau pulang ke rumah orang tuamu<br><br>Ala-la-tum, jahe-jahe, aca-aca, nehi-nehi<br>Aduh, biyung inyong ora sudi<br>Bila sifatmu terus begitu<br>Aku pulangkan kamu<br>"
+    },
+    {
+      "id": 10,
+      "name_category": "SALLSA",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/10SLEMASHANTARANTAN.mp3",
+      "duration": "229",
+      "lyrics": "<br>berakhir sudah impian cinta<br>tinggallah puing puingnya<br>mimpi yang indah tak jadi nyata<br>terkikis ombak menerpa<br><br>aku yang dulu engkau sayangi<br>mengapa kau tinggal pergi<br>oh dimanakah janji yang suci<br>yang katamu tak berbagi<br><br>ku ingin kau mengerti<br>apa yang ku alami<br>takdir diriku harus melangkah<br>jauh darimu<br><br>andaikan aku boleh bertanya<br>apakah ada salah diriku<br>agar ku jauh dari prasangka<br>rasa cemburu<br><br>tiada salah dirimu, kasih<br>salah pada nasibku sendiri<br>karena tak punya emas permata<br>hantaran cinta<br><br>aku yang dulu engkau sayangi<br>mengapa kau tinggal pergi<br>oh dimanakah janji yang suci<br>yang katamu tak berbagi<br><br>ku ingin kau mengerti apa yang ku alami<br>takdir diriku harus melangkah jauh darimu<br><br>andaikan aku boleh bertanya, apakah ada salah diriku<br>agar ku jauh dari prasangka rasa cemburu<br>tiada salah dirimu, kasih, salah pada nasibku sendiri<br>karena tak punya emas permata hantaran cinta<br><br>andaikan aku boleh bertanya, apakah ada salah diriku<br>agar ku jauh dari prasangka rasa cemburu<br>tiada salah dirimu, kasih, salah pada nasibku sendiri<br>karena tak punya emas permata hantaran cinta<br><br>karena tak punya emas permata hantaran cinta<br><br>karena tak punya"
+    },
+    {
+      "id": 11,
+      "name_category": "SALLSA",
+      "title": "BIARLAH",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/SLBIARLAHTAN.mp3",
+      "duration": "332",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "SALLSA",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/SL.jpg",
+      "link_mp3": "mp3/SLDALANLIYANETAN.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "LENGKAP",
+      "title": "HEY LADIES",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLHEYLADIESTAN.mp3",
+      "duration": "216",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "LENGKAP",
+      "title": "JAWARA CINTA",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLJAWARACINTATAN.mp3",
+      "duration": "210",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LENGKAP",
+      "title": "KEHADIRAMU",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLKEHADIRANMUTAN.mp3",
+      "duration": "290",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "LAGI LAGI GAK BISA TIDUR",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLLAGILAGIKUGAKBISATIDURTAN.mp3",
+      "duration": "290",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "MENGHAPUS JEJAKMU",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLMENGHAPUSJEJAKMUTAN.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "RINDU SERIUNDU RINDUNYA",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLRINDUSERINDURINDUNYATAN.mp3",
+      "duration": "304",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "SAKIT SAKIT HATIKU",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLSAKITSAKITHATIKUTAN.mp3",
+      "duration": "236",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "WAJAH WAJAH KEKASIH",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/SLWAJAHWAJAHKEKASIHTAN.mp3",
+      "duration": "260",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "KAU TERCIPTA BUKAN UNTUKU",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/YSLKAUTERCIPTABUKANUNTUUKUAN.mp3",
+      "duration": "197",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "PURNAMA MERINDU",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/YSLPURNAMAMERINDUTAN.mp3",
+      "duration": "259",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "YANG SEDANG SEDANG SAJA",
+      "image": "file:///android_asset/image/SLL.jpg",
+      "link_mp3": "mp3/YSLYANGSEDANGSEDANGSAJATAN.mp3",
+      "duration": "303",
+      "lyrics": ""
+    }
+
+  ]
+}
