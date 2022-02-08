@@ -1,14 +1,14 @@
 {
   "Ads": [{
     "select_main_ads": "ADMOB",
-    "select_backup_ads": "",
+    "select_backup_ads": "STARTAPP",
     "main_ads_banner": "",
     "main_ads_intertitial": "",
     "backup_ads_banner": "qwert12345",
     "backup_ads_intertitial": "qwert12345",
     "interval_intertitial": 3,
-    "initialize_sdk": "null",
-    "initialize_sdk_backup_ads": "null",
+    "initialize_sdk": "201259177",
+    "initialize_sdk_backup_ads": "201259177",
     "high_paying_keyword_1": "",
     "high_paying_keyword_2": "",
     "high_paying_keyword_3": "",
@@ -71,7 +71,7 @@
       "image": "file:///android_asset/image/SL.jpg",
       "link_mp3": "mp3/5SLKUINGINMATISAJATAN.mp3",
       "duration": "245",
-      "lyrics": "baby we’re good friends for so long<br>kau bilang sayang entah benar atau bohong<br>bilang rindu and all of your feeling<br>do you really really mean all of those thing<br><br>saat ku akan berikan cintaku<br>you are changing, who the h-ll are you<br>apa maksudmu hancurkan harapanku<br>are you happy breaking my heart in two<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>di malam ini ku yakin kau bersama orang lain<br>semua ucapanmu kini bagai sebuah angin lalu<br>kau bilang padaku kau butuh diriku tuk disampingmu<br>tapi kenyataannya kau tak ada disisiku<br>sudah lupakan lupakan saja semua cerita<br>yang terjalin terjalin diantara kita<br>tak sanggup lagi diriku untuk berkata-kata<br>karna ku ingin ku ingin kau mati saja<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja<br>"
+      "lyrics": "baby weâ€™re good friends for so long<br>kau bilang sayang entah benar atau bohong<br>bilang rindu and all of your feeling<br>do you really really mean all of those thing<br><br>saat ku akan berikan cintaku<br>you are changing, who the h-ll are you<br>apa maksudmu hancurkan harapanku<br>are you happy breaking my heart in two<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>di malam ini ku yakin kau bersama orang lain<br>semua ucapanmu kini bagai sebuah angin lalu<br>kau bilang padaku kau butuh diriku tuk disampingmu<br>tapi kenyataannya kau tak ada disisiku<br>sudah lupakan lupakan saja semua cerita<br>yang terjalin terjalin diantara kita<br>tak sanggup lagi diriku untuk berkata-kata<br>karna ku ingin ku ingin kau mati saja<br><br>demi dirinya kau biarkan ku menangis<br>demi dirinya kau biarkan ku menanti<br>dan kau takkan bisa lari karena ku ingin kau mati<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku tak akan menunggu, tak lagi harapkanmu<br><br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja, ku ingin kau pergi saja<br>ku ingin kau mati saja<br>"
     },
     {
       "id": 6,
